@@ -22,11 +22,7 @@ connectDB()
 
 
 
-
-
-
-
-
+// 2nd Approch usinf IIFE - not suggested
 
 /*
 import express from "express"
